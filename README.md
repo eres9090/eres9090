@@ -29,15 +29,6 @@ I am a passionate software developer from Brazil/Timbaúba. I love building appl
 </p>
 
 ---
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dracula" />
-</p>
-
----
-
 ### 🤝 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/gsilva279" target="_blank">
@@ -53,6 +44,9 @@ I am a passionate software developer from Brazil/Timbaúba. I love building appl
 
 ---
 
+![Snake animation](https://github.com/eres9090/eres9090/blob/output/github-contribution-grid-snake.svg)
+
+---
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
